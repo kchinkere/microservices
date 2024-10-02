@@ -1,0 +1,5 @@
+com/techie/inventoryservice/InventoryServiceApplication.class
+com/techie/inventoryservice/model/Inventory.class
+com/techie/inventoryservice/repository/InventoryRepository.class
+com/techie/inventoryservice/controller/InventoryController.class
+com/techie/inventoryservice/service/InventoryService.class

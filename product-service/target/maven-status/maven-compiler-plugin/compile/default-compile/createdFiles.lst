@@ -1,0 +1,10 @@
+com/techie/productservice/model/Product$ProductBuilder.class
+com/techie/productservice/service/ProductService.class
+com/techie/productservice/repository/ProductRepository.class
+com/techie/productservice/dto/ProductRequest.class
+com/techie/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/techie/productservice/ProductServiceApplication.class
+com/techie/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/techie/productservice/controller/ProductController.class
+com/techie/productservice/dto/ProductResponse.class
+com/techie/productservice/model/Product.class

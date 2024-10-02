@@ -1,0 +1,7 @@
+/Users/kartik/Documents/Learning/microservices/product-service/src/main/java/com/techie/productservice/ProductServiceApplication.java
+/Users/kartik/Documents/Learning/microservices/product-service/src/main/java/com/techie/productservice/controller/ProductController.java
+/Users/kartik/Documents/Learning/microservices/product-service/src/main/java/com/techie/productservice/dto/ProductRequest.java
+/Users/kartik/Documents/Learning/microservices/product-service/src/main/java/com/techie/productservice/dto/ProductResponse.java
+/Users/kartik/Documents/Learning/microservices/product-service/src/main/java/com/techie/productservice/model/Product.java
+/Users/kartik/Documents/Learning/microservices/product-service/src/main/java/com/techie/productservice/repository/ProductRepository.java
+/Users/kartik/Documents/Learning/microservices/product-service/src/main/java/com/techie/productservice/service/ProductService.java
